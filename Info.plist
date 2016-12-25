@@ -13,6 +13,6 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>hotkeyd</string>
 </dict>
 </plist>
